@@ -1,0 +1,10 @@
+C:\Users\Tom\source\repos\StringAndTextProcessing\ShiftingCharacterPositions\bin\Debug\netcoreapp2.1\ShiftingCharacterPositions.deps.json
+C:\Users\Tom\source\repos\StringAndTextProcessing\ShiftingCharacterPositions\bin\Debug\netcoreapp2.1\ShiftingCharacterPositions.runtimeconfig.json
+C:\Users\Tom\source\repos\StringAndTextProcessing\ShiftingCharacterPositions\bin\Debug\netcoreapp2.1\ShiftingCharacterPositions.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\StringAndTextProcessing\ShiftingCharacterPositions\bin\Debug\netcoreapp2.1\ShiftingCharacterPositions.dll
+C:\Users\Tom\source\repos\StringAndTextProcessing\ShiftingCharacterPositions\bin\Debug\netcoreapp2.1\ShiftingCharacterPositions.pdb
+C:\Users\Tom\source\repos\StringAndTextProcessing\ShiftingCharacterPositions\obj\Debug\netcoreapp2.1\ShiftingCharacterPositions.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\StringAndTextProcessing\ShiftingCharacterPositions\obj\Debug\netcoreapp2.1\ShiftingCharacterPositions.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\StringAndTextProcessing\ShiftingCharacterPositions\obj\Debug\netcoreapp2.1\ShiftingCharacterPositions.AssemblyInfo.cs
+C:\Users\Tom\source\repos\StringAndTextProcessing\ShiftingCharacterPositions\obj\Debug\netcoreapp2.1\ShiftingCharacterPositions.dll
+C:\Users\Tom\source\repos\StringAndTextProcessing\ShiftingCharacterPositions\obj\Debug\netcoreapp2.1\ShiftingCharacterPositions.pdb

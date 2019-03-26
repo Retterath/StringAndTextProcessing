@@ -1,0 +1,6 @@
+C:\Users\Tom\source\repos\StringAndTextProcessing\Substring\bin\Debug\Substring.exe.config
+C:\Users\Tom\source\repos\StringAndTextProcessing\Substring\bin\Debug\Substring.exe
+C:\Users\Tom\source\repos\StringAndTextProcessing\Substring\bin\Debug\Substring.pdb
+C:\Users\Tom\source\repos\StringAndTextProcessing\Substring\obj\Debug\Substring.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\StringAndTextProcessing\Substring\obj\Debug\Substring.exe
+C:\Users\Tom\source\repos\StringAndTextProcessing\Substring\obj\Debug\Substring.pdb

@@ -1,0 +1,10 @@
+C:\Users\Tom\source\repos\StringAndTextProcessing\TestArea\bin\Debug\netcoreapp2.1\TestArea.deps.json
+C:\Users\Tom\source\repos\StringAndTextProcessing\TestArea\bin\Debug\netcoreapp2.1\TestArea.runtimeconfig.json
+C:\Users\Tom\source\repos\StringAndTextProcessing\TestArea\bin\Debug\netcoreapp2.1\TestArea.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\StringAndTextProcessing\TestArea\bin\Debug\netcoreapp2.1\TestArea.dll
+C:\Users\Tom\source\repos\StringAndTextProcessing\TestArea\bin\Debug\netcoreapp2.1\TestArea.pdb
+C:\Users\Tom\source\repos\StringAndTextProcessing\TestArea\obj\Debug\netcoreapp2.1\TestArea.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\StringAndTextProcessing\TestArea\obj\Debug\netcoreapp2.1\TestArea.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\StringAndTextProcessing\TestArea\obj\Debug\netcoreapp2.1\TestArea.AssemblyInfo.cs
+C:\Users\Tom\source\repos\StringAndTextProcessing\TestArea\obj\Debug\netcoreapp2.1\TestArea.dll
+C:\Users\Tom\source\repos\StringAndTextProcessing\TestArea\obj\Debug\netcoreapp2.1\TestArea.pdb

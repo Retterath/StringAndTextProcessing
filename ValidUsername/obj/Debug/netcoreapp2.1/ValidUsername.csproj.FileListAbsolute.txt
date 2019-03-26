@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\StringAndTextProcessing\ValidUsername\bin\Debug\netcoreapp2.1\ValidUsername.deps.json
+C:\Users\Tom\source\repos\StringAndTextProcessing\ValidUsername\bin\Debug\netcoreapp2.1\ValidUsername.runtimeconfig.json
+C:\Users\Tom\source\repos\StringAndTextProcessing\ValidUsername\bin\Debug\netcoreapp2.1\ValidUsername.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\StringAndTextProcessing\ValidUsername\bin\Debug\netcoreapp2.1\ValidUsername.dll
+C:\Users\Tom\source\repos\StringAndTextProcessing\ValidUsername\bin\Debug\netcoreapp2.1\ValidUsername.pdb
+C:\Users\Tom\source\repos\StringAndTextProcessing\ValidUsername\obj\Debug\netcoreapp2.1\ValidUsername.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\StringAndTextProcessing\ValidUsername\obj\Debug\netcoreapp2.1\ValidUsername.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\StringAndTextProcessing\ValidUsername\obj\Debug\netcoreapp2.1\ValidUsername.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\StringAndTextProcessing\ValidUsername\obj\Debug\netcoreapp2.1\ValidUsername.AssemblyInfo.cs
+C:\Users\Tom\source\repos\StringAndTextProcessing\ValidUsername\obj\Debug\netcoreapp2.1\ValidUsername.dll
+C:\Users\Tom\source\repos\StringAndTextProcessing\ValidUsername\obj\Debug\netcoreapp2.1\ValidUsername.pdb

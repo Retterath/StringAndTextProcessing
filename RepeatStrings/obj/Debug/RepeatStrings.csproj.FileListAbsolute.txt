@@ -1,0 +1,6 @@
+C:\Users\Tom\source\repos\StringAndTextProcessing\RepeatStrings\bin\Debug\RepeatStrings.exe.config
+C:\Users\Tom\source\repos\StringAndTextProcessing\RepeatStrings\bin\Debug\RepeatStrings.exe
+C:\Users\Tom\source\repos\StringAndTextProcessing\RepeatStrings\bin\Debug\RepeatStrings.pdb
+C:\Users\Tom\source\repos\StringAndTextProcessing\RepeatStrings\obj\Debug\RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\StringAndTextProcessing\RepeatStrings\obj\Debug\RepeatStrings.exe
+C:\Users\Tom\source\repos\StringAndTextProcessing\RepeatStrings\obj\Debug\RepeatStrings.pdb

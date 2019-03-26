@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CharacterMultiply",
+    "\\ExtractFile",
+    "\\RepeatStrings",
+    "\\StringAndTextProcessing",
+    "\\Substring",
+    "\\ValidUsername"
+  ],
+  "SelectedNode": "\\ValidUsername\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

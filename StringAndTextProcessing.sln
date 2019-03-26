@@ -11,9 +11,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substring", "Substring\Subs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidUsername", "ValidUsername\ValidUsername.csproj", "{F97B11FF-669B-42C7-91A2-3DEAF17D7DF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterMultiply", "CharacterMultiply\CharacterMultiply.csproj", "{AAF03AD8-2FEF-4282-A95B-BFBB8F82A973}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharacterMultiply", "CharacterMultiply\CharacterMultiply.csproj", "{AAF03AD8-2FEF-4282-A95B-BFBB8F82A973}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractFile", "ExtractFile\ExtractFile.csproj", "{3332B8F4-CDC1-4786-AA1A-19005A415631}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtractFile", "ExtractFile\ExtractFile.csproj", "{3332B8F4-CDC1-4786-AA1A-19005A415631}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestArea", "TestArea\TestArea.csproj", "{50B4ADF2-7FE3-452A-A81B-50F2B76069F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShiftingCharacterPositions", "ShiftingCharacterPositions\ShiftingCharacterPositions.csproj", "{9BF1BAE4-A4F8-4F47-9A95-8EC4D914CB14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{3332B8F4-CDC1-4786-AA1A-19005A415631}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3332B8F4-CDC1-4786-AA1A-19005A415631}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3332B8F4-CDC1-4786-AA1A-19005A415631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B4ADF2-7FE3-452A-A81B-50F2B76069F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B4ADF2-7FE3-452A-A81B-50F2B76069F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B4ADF2-7FE3-452A-A81B-50F2B76069F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B4ADF2-7FE3-452A-A81B-50F2B76069F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF1BAE4-A4F8-4F47-9A95-8EC4D914CB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF1BAE4-A4F8-4F47-9A95-8EC4D914CB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF1BAE4-A4F8-4F47-9A95-8EC4D914CB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF1BAE4-A4F8-4F47-9A95-8EC4D914CB14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

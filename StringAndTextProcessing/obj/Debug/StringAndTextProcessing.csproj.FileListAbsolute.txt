@@ -1,0 +1,7 @@
+C:\Users\Tom\source\repos\StringAndTextProcessing\StringAndTextProcessing\bin\Debug\StringAndTextProcessing.exe.config
+C:\Users\Tom\source\repos\StringAndTextProcessing\StringAndTextProcessing\bin\Debug\StringAndTextProcessing.exe
+C:\Users\Tom\source\repos\StringAndTextProcessing\StringAndTextProcessing\bin\Debug\StringAndTextProcessing.pdb
+C:\Users\Tom\source\repos\StringAndTextProcessing\StringAndTextProcessing\obj\Debug\StringAndTextProcessing.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\StringAndTextProcessing\StringAndTextProcessing\obj\Debug\StringAndTextProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\StringAndTextProcessing\StringAndTextProcessing\obj\Debug\StringAndTextProcessing.exe
+C:\Users\Tom\source\repos\StringAndTextProcessing\StringAndTextProcessing\obj\Debug\StringAndTextProcessing.pdb

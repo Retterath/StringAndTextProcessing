@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\StringAndTextProcessing\CharacterMultiply\bin\Debug\netcoreapp2.1\CharacterMultiply.deps.json
+C:\Users\Tom\source\repos\StringAndTextProcessing\CharacterMultiply\bin\Debug\netcoreapp2.1\CharacterMultiply.runtimeconfig.json
+C:\Users\Tom\source\repos\StringAndTextProcessing\CharacterMultiply\bin\Debug\netcoreapp2.1\CharacterMultiply.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\StringAndTextProcessing\CharacterMultiply\bin\Debug\netcoreapp2.1\CharacterMultiply.dll
+C:\Users\Tom\source\repos\StringAndTextProcessing\CharacterMultiply\bin\Debug\netcoreapp2.1\CharacterMultiply.pdb
+C:\Users\Tom\source\repos\StringAndTextProcessing\CharacterMultiply\obj\Debug\netcoreapp2.1\CharacterMultiply.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\StringAndTextProcessing\CharacterMultiply\obj\Debug\netcoreapp2.1\CharacterMultiply.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\StringAndTextProcessing\CharacterMultiply\obj\Debug\netcoreapp2.1\CharacterMultiply.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\StringAndTextProcessing\CharacterMultiply\obj\Debug\netcoreapp2.1\CharacterMultiply.AssemblyInfo.cs
+C:\Users\Tom\source\repos\StringAndTextProcessing\CharacterMultiply\obj\Debug\netcoreapp2.1\CharacterMultiply.dll
+C:\Users\Tom\source\repos\StringAndTextProcessing\CharacterMultiply\obj\Debug\netcoreapp2.1\CharacterMultiply.pdb
